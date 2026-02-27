@@ -1,5 +1,7 @@
 # juriti
-##Slide Presentation Editor using Html + css + javascript
+## Slide Presentation Editor using Html + css + javascript
+
+You can test Juriti Presentation Editor at: https://juriti.netlify.app/
 
 O <b>Juriti Presentation</b> foi criado para dar autonomia, liberdade e principalmente segurança no desenvolvimento de suas apresentações. Enquanto outros aplicativos te obrigam a manter seus dados online, fazer upload de suas imagens com dados sensíveis ou estar sempre conectado quando for apresentar o seu trabalho, o Juriti permite que você mantenha seu trabalho totalmente local, suas imagens dentro do seu próprio computador e quando sua apresentação estiver pronta, basta EXPORTAR empacotando todas as imagens dentro de um arquivo compactado .ZIP que você descompacta em uma pasta ou em um pendrive podendo visualizar sua apresentação totalmente offline.
 <img width="1904" height="947" alt="slide01" src="https://github.com/user-attachments/assets/4f6c945f-d31b-4819-898c-4a10bc5beccd" />

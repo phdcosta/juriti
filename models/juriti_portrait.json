@@ -1,0 +1,2406 @@
+{
+  "name": "Apresentação Completa de Demonstração",
+  "title": "Slide Editor Pro - Todos os Recursos",
+  "updated_at": "2026-02-03T14:44:38.884Z",
+  "transitionMode": "free",
+  "slides": [
+    {
+      "id": "slide_intro",
+      "width": 540,
+      "height": 960,
+      "background": {
+        "type": "color",
+        "value": "#1a1a2e",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-fade",
+        "exit": "slide-slide-left",
+        "duration": 0.8,
+        "easing": "ease-in-out"
+      },
+      "impress": {
+        "enabled": false,
+        "pos": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rot": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": 1
+      },
+      "items": [
+        {
+          "id": "main_title",
+          "type": "text",
+          "box": {
+            "x": 119.6319018404908,
+            "y": 78.22085889570552,
+            "w": 318.95705521472394,
+            "h": 155.0920245398773,
+            "z": 10,
+            "rot": 0
+          },
+          "content": {
+            "value": "Juriti Slide Editor",
+            "fontFamily": "Segoe UI",
+            "fontSize": 56,
+            "textAlign": "center",
+            "fontWeight": "bold"
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1,
+            "effect": "stat-glow-rainbow"
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomInRotate",
+              "duration": 1.2,
+              "delay": 0,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "zoomOutRotate",
+              "duration": 0.8,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "subtitle",
+          "type": "text",
+          "box": {
+            "x": 126.80981595092024,
+            "y": 368.46625766871165,
+            "w": 275.82822085889575,
+            "h": 99.14110429447854,
+            "z": 9,
+            "rot": 0
+          },
+          "content": {
+            "value": "60+ Efeitos • 21 Transições • 7 Modelos • 3D Impress",
+            "fontFamily": "Segoe UI",
+            "fontSize": 24,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#00dbde",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 1,
+              "delay": 0.5,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "fadeOutDown",
+              "duration": 0.6,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-neon-pulse",
+                "duration": 2,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "pulse_circle",
+          "type": "shape",
+          "box": {
+            "x": 169.50920245398774,
+            "y": 604.9693251533741,
+            "w": 200,
+            "h": 200,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#fc00ff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 0.8,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "elasticOut",
+              "duration": 0.8,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-pulse-scale",
+                "duration": 2,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "vis-shadow-col",
+                "duration": 3,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        }
+      ]
+    },
+    {
+      "id": "slide_visual_effects",
+      "width": 540,
+      "height": 960,
+      "background": {
+        "type": "color",
+        "value": "#16213e",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-cube-right",
+        "exit": "slide-cube-left",
+        "duration": 1,
+        "easing": "ease-in-out"
+      },
+      "impress": {
+        "enabled": true,
+        "pos": {
+          "x": 1000,
+          "y": 0,
+          "z": 0
+        },
+        "rot": {
+          "x": 0,
+          "y": 45,
+          "z": 0
+        },
+        "scale": 1
+      },
+      "items": [
+        {
+          "id": "visual_title",
+          "type": "text",
+          "box": {
+            "x": 33.43558282208591,
+            "y": 62.45398773006135,
+            "w": 473.00613496932516,
+            "h": 123.43558282208588,
+            "z": 10,
+            "rot": 0
+          },
+          "content": {
+            "value": "46 Efeitos Visuais Animados",
+            "fontFamily": "Impact",
+            "fontSize": 48,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#ff8a00",
+            "opacity": 1,
+            "effect": "stat-shadow-neon"
+          },
+          "animation": {
+            "enter": {
+              "type": "slideFromRight",
+              "duration": 1,
+              "delay": 0.2,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "slideToLeft",
+              "duration": 0.8,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "demo_neon",
+          "type": "text",
+          "box": {
+            "x": 46.99386503067485,
+            "y": 260.49079754601223,
+            "w": 200,
+            "h": 40,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Neon Pulse",
+            "fontFamily": "Courier New",
+            "fontSize": 22
+          },
+          "style": {
+            "color": "#00ff88",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInLeft",
+              "duration": 0.8,
+              "delay": 0.4,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-neon-pulse",
+                "duration": 1.5,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "demo_rainbow",
+          "type": "text",
+          "box": {
+            "x": 305.398773006135,
+            "y": 256.5644171779141,
+            "w": 200,
+            "h": 40,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Rainbow Glow",
+            "fontFamily": "Courier New",
+            "fontSize": 22
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.8,
+              "delay": 0.5,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-rainbow-glow",
+                "duration": 3,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "demo_fire",
+          "type": "text",
+          "box": {
+            "x": 315.2147239263804,
+            "y": 542.5766871165645,
+            "w": 200,
+            "h": 40,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Fire Flicker",
+            "fontFamily": "Courier New",
+            "fontSize": 22
+          },
+          "style": {
+            "color": "#ff6600",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInRight",
+              "duration": 0.8,
+              "delay": 0.6,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-fire-flicker",
+                "duration": 1,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "demo_electric",
+          "type": "text",
+          "box": {
+            "x": 42.085889570552155,
+            "y": 396.25766871165644,
+            "w": 200,
+            "h": 40,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Electric Spark",
+            "fontFamily": "Courier New",
+            "fontSize": 22
+          },
+          "style": {
+            "color": "#00ffff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInLeft",
+              "duration": 0.8,
+              "delay": 0.7,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-electric-spark",
+                "duration": 0.8,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "demo_glitch",
+          "type": "text",
+          "box": {
+            "x": 308.3435582822086,
+            "y": 399.20245398773005,
+            "w": 200,
+            "h": 40,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Digital Glitch",
+            "fontFamily": "Courier New",
+            "fontSize": 22
+          },
+          "style": {
+            "color": "#ff00ff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.8,
+              "delay": 0.8,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-glitch-digital",
+                "duration": 0.5,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "demo_hologram",
+          "type": "text",
+          "box": {
+            "x": 49.81595092024542,
+            "y": 541.4110429447852,
+            "w": 200,
+            "h": 40,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Hologram",
+            "fontFamily": "Courier New",
+            "fontSize": 22
+          },
+          "style": {
+            "color": "#00ffff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInRight",
+              "duration": 0.8,
+              "delay": 0.9,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-hologram-flicker",
+                "duration": 1.5,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "demo_aurora",
+          "type": "shape",
+          "box": {
+            "x": 130.3680981595092,
+            "y": 699.5092024539877,
+            "w": 300,
+            "h": 80,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#6a11cb",
+            "opacity": 1,
+            "effect": "stat-border-glow"
+          },
+          "animation": {
+            "enter": {
+              "type": "bounceIn",
+              "duration": 1,
+              "delay": 1.1,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-aurora",
+                "duration": 4,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        }
+      ]
+    },
+    {
+      "id": "slide_geometric",
+      "width": 540,
+      "height": 960,
+      "background": {
+        "type": "color",
+        "value": "#0f3460",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-flip-horizontal",
+        "exit": "slide-scale-down",
+        "duration": 0.8,
+        "easing": "ease-in-out"
+      },
+      "impress": {
+        "enabled": false,
+        "pos": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rot": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": 1
+      },
+      "items": [
+        {
+          "id": "geo_title",
+          "type": "text",
+          "box": {
+            "x": 34.5398773006135,
+            "y": 54.60122699386503,
+            "w": 475.6441717791411,
+            "h": 61.65644171779141,
+            "z": 10,
+            "rot": 0
+          },
+          "content": {
+            "value": "50 Efeitos Geométricos",
+            "fontFamily": "Impact",
+            "fontSize": 48,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#e94560",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "flipIn",
+              "duration": 1,
+              "delay": 0,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "flipOut",
+              "duration": 0.8,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_cube",
+          "type": "shape",
+          "box": {
+            "x": 52.515337423312886,
+            "y": 232.94478527607362,
+            "w": 100,
+            "h": 100,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#00dbde",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomIn",
+              "duration": 0.8,
+              "delay": 0.3,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-cube-rotate",
+                "duration": 4,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_flip",
+          "type": "shape",
+          "box": {
+            "x": 214.2944785276074,
+            "y": 229.38650306748465,
+            "w": 100,
+            "h": 100,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#fc00ff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomIn",
+              "duration": 0.8,
+              "delay": 0.4,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-flip-3d",
+                "duration": 3,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_wave",
+          "type": "shape",
+          "box": {
+            "x": 369.32515337423314,
+            "y": 223.86503067484662,
+            "w": 100,
+            "h": 100,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#ff8a00",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomIn",
+              "duration": 0.8,
+              "delay": 0.5,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-wave-motion",
+                "duration": 2,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_pendulum",
+          "type": "shape",
+          "box": {
+            "x": 137.4233128834356,
+            "y": 457.0552147239264,
+            "w": 100,
+            "h": 100,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#00ff88",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomIn",
+              "duration": 0.8,
+              "delay": 0.6,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-swing-pendulum",
+                "duration": 2,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_spiral",
+          "type": "shape",
+          "box": {
+            "x": 314.3558282208588,
+            "y": 454.0490797546012,
+            "w": 100,
+            "h": 100,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#ff00ff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomIn",
+              "duration": 0.8,
+              "delay": 0.7,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-spiral-out",
+                "duration": 3,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_jelly",
+          "type": "shape",
+          "box": {
+            "x": 33.58895705521473,
+            "y": 668.282208588957,
+            "w": 120,
+            "h": 120,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#ff6b6b",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "bounceIn",
+              "duration": 0.8,
+              "delay": 0.8,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-jelly-wobble",
+                "duration": 1.5,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_vibrate",
+          "type": "shape",
+          "box": {
+            "x": 211.99386503067484,
+            "y": 667.8527607361963,
+            "w": 120,
+            "h": 120,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#ffd93d",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "bounceIn",
+              "duration": 0.8,
+              "delay": 0.9,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-vibrate-intense",
+                "duration": 0.3,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "geo_heart",
+          "type": "shape",
+          "box": {
+            "x": 386.840490797546,
+            "y": 674.2944785276073,
+            "w": 120,
+            "h": 120,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#e94560",
+            "opacity": 1,
+            "effect": "stat-glow-soft"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 1,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-heartbeat",
+                "duration": 1.5,
+                "timing": "linear"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        }
+      ]
+    },
+    {
+      "id": "slide_static",
+      "width": 540,
+      "height": 960,
+      "background": {
+        "type": "color",
+        "value": "#533483",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-wipe-circle",
+        "exit": "slide-ken-burns",
+        "duration": 1,
+        "easing": "ease-in-out"
+      },
+      "impress": {
+        "enabled": true,
+        "pos": {
+          "x": -1000,
+          "y": 500,
+          "z": 200
+        },
+        "rot": {
+          "x": 15,
+          "y": -30,
+          "z": 5
+        },
+        "scale": 0.8
+      },
+      "items": [
+        {
+          "id": "static_title",
+          "type": "text",
+          "box": {
+            "x": 41.10429447852761,
+            "y": 46.25766871165644,
+            "w": 444.9079754601227,
+            "h": 76.68711656441718,
+            "z": 10,
+            "rot": 0
+          },
+          "content": {
+            "value": "25 Efeitos Estáticos",
+            "fontFamily": "Impact",
+            "fontSize": 48,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1,
+            "effect": "stat-shadow-long"
+          },
+          "animation": {
+            "enter": {
+              "type": "rotateIn",
+              "duration": 1,
+              "delay": 0,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_neon",
+          "type": "text",
+          "box": {
+            "x": 74.11042944785277,
+            "y": 183.55828220858896,
+            "w": 180,
+            "h": 45,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Neon Shadow",
+            "fontFamily": "Arial",
+            "fontSize": 18
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1,
+            "effect": "stat-shadow-neon"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.6,
+              "delay": 0.3,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_emboss",
+          "type": "text",
+          "box": {
+            "x": 80.5521472392638,
+            "y": 274.3558282208589,
+            "w": 180,
+            "h": 45,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "3D Emboss",
+            "fontFamily": "Arial",
+            "fontSize": 18
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1,
+            "effect": "stat-3d-emboss"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.6,
+              "delay": 0.4,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_glass",
+          "type": "text",
+          "box": {
+            "x": 295.2147239263804,
+            "y": 177.54601226993867,
+            "w": 180,
+            "h": 45,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Glass Morph",
+            "fontFamily": "Arial",
+            "fontSize": 18
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1,
+            "effect": "stat-glass-morphism"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.6,
+              "delay": 0.5,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_glow",
+          "type": "text",
+          "box": {
+            "x": 301.5337423312883,
+            "y": 265.4601226993865,
+            "w": 180,
+            "h": 45,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Intense Glow",
+            "fontFamily": "Arial",
+            "fontSize": 18
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1,
+            "effect": "stat-glow-intense"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.6,
+              "delay": 0.6,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_sepia",
+          "type": "shape",
+          "box": {
+            "x": 47.607361963190186,
+            "y": 368.5889570552147,
+            "w": 120,
+            "h": 80,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#8b7355",
+            "opacity": 1,
+            "effect": "stat-vintage-sepia"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInLeft",
+              "duration": 0.6,
+              "delay": 0.7,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_bw",
+          "type": "shape",
+          "box": {
+            "x": 227.05521472392638,
+            "y": 368.5889570552147,
+            "w": 120,
+            "h": 80,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#4a5568",
+            "opacity": 1,
+            "effect": "stat-vintage-bw"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.6,
+              "delay": 0.75,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_chrome",
+          "type": "shape",
+          "box": {
+            "x": 394.7239263803681,
+            "y": 366.62576687116564,
+            "w": 120,
+            "h": 80,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#c0c0c0",
+            "opacity": 1,
+            "effect": "stat-chrome-metallic"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.6,
+              "delay": 0.8,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_reflection",
+          "type": "shape",
+          "box": {
+            "x": 337.6073619631902,
+            "y": 490.30674846625766,
+            "w": 120,
+            "h": 80,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#3182ce",
+            "opacity": 1,
+            "effect": "stat-reflection"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.6,
+              "delay": 0.85,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "stat_border",
+          "type": "shape",
+          "box": {
+            "x": 100.79754601226995,
+            "y": 490.3680981595092,
+            "w": 120,
+            "h": 80,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#e53e3e",
+            "opacity": 1,
+            "borderWidth": 3,
+            "borderColor": "#ffd700",
+            "effect": "stat-border-double"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInRight",
+              "duration": 0.6,
+              "delay": 0.9,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "final_text",
+          "type": "text",
+          "box": {
+            "x": 95.58282208588957,
+            "y": 742.5766871165645,
+            "w": 370.30674846625766,
+            "h": 92.39263803680981,
+            "z": 10,
+            "rot": 0
+          },
+          "content": {
+            "value": "Exporte para HTML autocontido!",
+            "fontFamily": "Segoe UI",
+            "fontSize": 28,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#00dbde",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "bounceIn",
+              "duration": 1,
+              "delay": 1.2,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-glow-breathe",
+                "duration": 2,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        }
+      ]
+    },
+    {
+      "id": "slide_transitions",
+      "width": 540,
+      "height": 960,
+      "background": {
+        "type": "color",
+        "value": "#1a1a2e",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-blur-in",
+        "exit": "slide-fade",
+        "duration": 0.8,
+        "easing": "ease-in-out"
+      },
+      "impress": {
+        "enabled": false,
+        "pos": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rot": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": 1
+      },
+      "items": [
+        {
+          "id": "trans_title",
+          "type": "text",
+          "box": {
+            "x": 44.04907975460122,
+            "y": 80,
+            "w": 447.85276073619633,
+            "h": 63.92638036809816,
+            "z": 10,
+            "rot": 0
+          },
+          "content": {
+            "value": "21 Transições de Slide",
+            "fontFamily": "Impact",
+            "fontSize": 44,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#fc00ff",
+            "opacity": 1,
+            "effect": "stat-shadow-neon"
+          },
+          "animation": {
+            "enter": {
+              "type": "lightSpeedIn",
+              "duration": 1,
+              "delay": 0,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "trans_list1",
+          "type": "text",
+          "box": {
+            "x": 51.28834355828221,
+            "y": 292.69938650306744,
+            "w": 224.35582822085888,
+            "h": 90.5521472392638,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "• Fade, Slide, Scale\n• Rotate, Flip, Cube\n• Wipe (Left, Right, Circle)",
+            "fontFamily": "Segoe UI",
+            "fontSize": 18
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInLeft",
+              "duration": 0.8,
+              "delay": 0.4,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "trans_list2",
+          "type": "text",
+          "box": {
+            "x": 299.14110429447857,
+            "y": 295.6441717791411,
+            "w": 207.66871165644173,
+            "h": 113.12883435582822,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "• Blur In, Pixelate\n• Ken Burns, Morph\n• 3D Impress",
+            "fontFamily": "Segoe UI",
+            "fontSize": 18
+          },
+          "style": {
+            "color": "#ffffff",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInRight",
+              "duration": 0.8,
+              "delay": 0.5,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "model_title",
+          "type": "text",
+          "box": {
+            "x": 37.17791411042945,
+            "y": 484.9079754601227,
+            "w": 468.46625766871165,
+            "h": 47.05521472392638,
+            "z": 10,
+            "rot": 0
+          },
+          "content": {
+            "value": "7 Modelos de Apresentação",
+            "fontFamily": "Impact",
+            "fontSize": 36,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#00dbde",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomIn",
+              "duration": 0.8,
+              "delay": 0.7,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        },
+        {
+          "id": "model_list",
+          "type": "text",
+          "box": {
+            "x": 73.00613496932516,
+            "y": 696.2576687116564,
+            "w": 402.6993865030675,
+            "h": 85.88957055214723,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "Transição Livre | Carrossel 3D | Flip Cards | Deck de Cartas\nCubo 3D | Coverflow | Impress 3D",
+            "fontFamily": "Segoe UI",
+            "fontSize": 16,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#cccccc",
+            "opacity": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInUp",
+              "duration": 0.8,
+              "delay": 0.9,
+              "easing": "linear"
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-neon-outline",
+                "duration": 3,
+                "timing": "linear"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {}
+        }
+      ]
+    },
+    {
+      "id": "slide_imgs",
+      "width": 540,
+      "height": 960,
+      "background": {
+        "type": "image",
+        "value": "https://images.unsplash.com/photo-1663208846258-ac737c0e7276?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "transition": {
+        "enter": "slide-fade",
+        "exit": "slide-fade",
+        "duration": 0.8,
+        "delay": 0,
+        "easing": "ease-in-out"
+      },
+      "items": [
+        {
+          "id": "item_1770128797694",
+          "type": "image",
+          "box": {
+            "x": 13.251533742331262,
+            "y": 494.66257668711654,
+            "w": 215.4601226993865,
+            "h": 118.83435582822086,
+            "z": 3,
+            "rot": 0
+          },
+          "content": {
+            "value": "https://images.unsplash.com/photo-1663208846258-ac737c0e7276?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "clipShape": "arrow-right"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "slideFromLeft",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "bounceOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770128822452",
+          "type": "image",
+          "box": {
+            "x": 232.33128834355836,
+            "y": 468.9570552147239,
+            "w": 200,
+            "h": 200,
+            "z": 2,
+            "rot": 0
+          },
+          "content": {
+            "value": "https://images.unsplash.com/photo-1663208846258-ac737c0e7276?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "clipShape": "burst"
+          },
+          "style": {
+            "effect": "stat-glow-rainbow"
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomInRotate",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "rollOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770128900316",
+          "type": "image",
+          "box": {
+            "x": 187.7914110429448,
+            "y": 386.3190184049079,
+            "w": 280.6134969325153,
+            "h": 209.38650306748465,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "https://images.unsplash.com/photo-1757101782354-d7988295617c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          "style": {
+            "effect": "stat-reflection"
+          },
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770128998596",
+          "type": "text",
+          "box": {
+            "x": 180.06134969325151,
+            "y": 351.90184049079755,
+            "w": 285.03067484662574,
+            "h": 31.779141104294478,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Uma imagem com reflexo"
+          },
+          "style": {
+            "color": "#ffffff"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "fadeOutRight",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770129035068",
+          "type": "text",
+          "box": {
+            "x": 51.042944785276084,
+            "y": 807.7300613496932,
+            "w": 452.3312883435583,
+            "h": 37.85276073619632,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Imagens com usando um corte (clippath)"
+          },
+          "style": {
+            "color": "#ffffff"
+          },
+          "animation": {
+            "enter": {
+              "type": "flipIn",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "swingOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770129087697",
+          "type": "text",
+          "box": {
+            "x": 139.14110429447854,
+            "y": 142.1472392638037,
+            "w": 275.1533742331289,
+            "h": 119.4478527607362,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Fundo do slide vinculado a uma imagem",
+            "fontSize": 30,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#f6ff75"
+          },
+          "animation": {
+            "enter": {
+              "type": "rotateIn",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "flipOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770129142940",
+          "type": "text",
+          "box": {
+            "x": 283.8036809815951,
+            "y": 547.8527607361964,
+            "w": 93.9877300613497,
+            "h": 60.49079754601226,
+            "z": 3,
+            "rot": 0
+          },
+          "content": {
+            "value": "o efeito de sombra respeitando os limites do corte",
+            "textAlign": "center",
+            "fontSize": 12
+          },
+          "style": {
+            "color": "#fcff52"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInDown",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "jackOutTheBox",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

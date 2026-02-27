@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juriti's Slide Editor</title>
+    <script src="js/jszip.min.js"></script>
+    <script type="module">
+        import { LanguageManager } from './js/LanguageManager.js';
+        window.LanguageManager = LanguageManager;
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1a1a2e;
+            overflow: hidden;
+        }
+
+        #app {
+            flex: 1;
+            position: relative;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+        }
+
+        .info-panel {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+            max-width: 320px;
+            z-index: 1000;
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        .info-panel h1 {
+            margin: 0 0 10px 0;
+            font-size: 18px;
+            color: #2563eb;
+        }
+
+        .info-panel h2 {
+            margin: 15px 0 8px 0;
+            font-size: 14px;
+            color: #374151;
+            border-bottom: 1px solid #e5e7eb;
+            padding-bottom: 5px;
+        }
+
+        .info-panel ul {
+            margin: 0;
+            padding-left: 18px;
+        }
+
+        .info-panel li {
+            margin-bottom: 4px;
+            color: #4b5563;
+        }
+
+        .info-panel .feature-count {
+            display: inline-block;
+            background: #2563eb;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-left: 5px;
+        }
+
+        .info-panel .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: none;
+            border: none;
+            font-size: 18px;
+            cursor: pointer;
+            color: #6b7280;
+        }
+
+        .info-panel .close-btn:hover {
+            color: #dc2626;
+        }
+
+        .info-panel.collapsed {
+            padding: 10px 15px;
+            max-width: 200px;
+        }
+
+        .info-panel.collapsed .content {
+            display: none;
+        }
+
+        .info-panel.collapsed h1 {
+            margin: 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app"></div>
+
+    <script type="module">
+        import { SlidePresentation } from './js/SlidePresentation.js';
+        import { getFontManager } from './js/FontManager.js';
+
+        // Inicializa o gerenciador de fontes
+        const fontManager = getFontManager('./fonts');
+        await fontManager.init();
+
+
+        const slidesData = {
+            name: "Nova Apresentação",
+            title: "Sem Título",
+            updated_at: new Date().toISOString(),
+            transitionMode: "free",
+            slides: []
+        };
+
+        const presentation = new SlidePresentation(document.getElementById('app'), slidesData);
+        window.presentation = presentation;
+    </script>
+</body>
+
+</html>

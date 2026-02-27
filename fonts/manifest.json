@@ -1,0 +1,269 @@
+{
+    "fonts": [
+        {
+            "name": "Acidic",
+            "file": "Acidic.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BalletHarmony",
+            "file": "BalletHarmony.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BLOODY",
+            "file": "BLOODY.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Blue Winter",
+            "file": "Blue Winter.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Bolton",
+            "file": "Bolton.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonBold",
+            "file": "BoltonBold.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonBoldItalic",
+            "file": "BoltonBoldItalic.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonElongated",
+            "file": "BoltonElongated.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonItalic",
+            "file": "BoltonItalic.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonItalicOutline",
+            "file": "BoltonItalicOutline.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonLight",
+            "file": "BoltonLight.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonLightItalic",
+            "file": "BoltonLightItalic.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonOutline",
+            "file": "BoltonOutline.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonShadowed",
+            "file": "BoltonShadowed.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonTitling",
+            "file": "BoltonTitling.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonTitlingBold",
+            "file": "BoltonTitlingBold.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonTitlingElongated",
+            "file": "BoltonTitlingElongated.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonTitlingOutline",
+            "file": "BoltonTitlingOutline.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "BoltonTitlingShadowed",
+            "file": "BoltonTitlingShadowed.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "college",
+            "file": "college.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "collegeb",
+            "file": "collegeb.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "collegec",
+            "file": "collegec.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Floozy",
+            "file": "Floozy.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Freshman",
+            "file": "Freshman.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "FuturaHandwritten",
+            "file": "FuturaHandwritten.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "gomarice_nandaka_western",
+            "file": "gomarice_nandaka_western.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "heavy heap rg",
+            "file": "heavy heap rg.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Horbse Textured",
+            "file": "Horbse Textured.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Kirsty Bd It",
+            "file": "Kirsty Bd It.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Kirsty Bd",
+            "file": "Kirsty Bd.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Kirsty Rg It",
+            "file": "Kirsty Rg It.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Kirsty Rg",
+            "file": "Kirsty Rg.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Krisha-Regular",
+            "file": "Krisha-Regular.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Lobster 1.4",
+            "file": "Lobster 1.4.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Melon Pop",
+            "file": "Melon Pop.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "MPF DOTIMPACT",
+            "file": "MPF DOTIMPACT.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Nougat-ExtraBlack",
+            "file": "Nougat-ExtraBlack.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Overhaul",
+            "file": "Overhaul.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Pacifico",
+            "file": "Pacifico.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Quicktext",
+            "file": "Quicktext.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "RobotoMono-Italic",
+            "file": "RobotoMono-Italic.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "RobotoMono",
+            "file": "RobotoMono.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Scratched Letters",
+            "file": "Scratched Letters.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "sparta",
+            "file": "sparta.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Super Dream",
+            "file": "Super Dream.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Super Mellow",
+            "file": "Super Mellow.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Super Popstar",
+            "file": "Super Popstar.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Telegraphem",
+            "file": "Telegraphem.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Unquiet Spirits",
+            "file": "Unquiet Spirits.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "Verve",
+            "file": "Verve.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "VerveAlternate",
+            "file": "VerveAlternate.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "VerveShadow",
+            "file": "VerveShadow.woff2",
+            "format": "woff2"
+        },
+        {
+            "name": "ZOMBIE",
+            "file": "ZOMBIE.woff2",
+            "format": "woff2"
+        }
+    ]
+}

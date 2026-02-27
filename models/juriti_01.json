@@ -1,0 +1,2042 @@
+{
+  "name": "Nova Apresentação",
+  "title": "Sem Título",
+  "updated_at": "2026-02-04T12:25:54.295Z",
+  "transitionMode": "free",
+  "slides": [
+    {
+      "id": "slide_1",
+      "width": 960,
+      "height": 540,
+      "background": {
+        "type": "color",
+        "value": "#00114d",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-cube-right",
+        "exit": "slide-cube-left",
+        "duration": 0.8,
+        "delay": 0.6,
+        "easing": "ease-in-out"
+      },
+      "items": [
+        {
+          "id": "item_1770156620363",
+          "type": "text",
+          "box": {
+            "x": 167.91411042944787,
+            "y": 53.61963190184049,
+            "w": 649.4478527607362,
+            "h": 86.99386503067485,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Juriti Apresentação Livre",
+            "fontFamily": "Super Mellow",
+            "fontSize": 60,
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#ff8f33"
+          },
+          "animation": {
+            "enter": {
+              "type": "zoomIn",
+              "duration": 1,
+              "delay": 0.3
+            },
+            "exit": {
+              "type": "zoomOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770156732507",
+          "type": "text",
+          "box": {
+            "x": 187.7914110429448,
+            "y": 151.90184049079755,
+            "w": 621.2883435582822,
+            "h": 66.0122699386503,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "esse aplicativo foi feito para te garantir liberdade e segurança de seus próprios dados",
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#ffffff"
+          },
+          "animation": {
+            "enter": {
+              "type": "pulseIn",
+              "duration": 1,
+              "delay": 0.5
+            },
+            "exit": {
+              "type": "slideToLeft",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770156779811",
+          "type": "text",
+          "box": {
+            "x": 180.61349693251532,
+            "y": 223.68098159509205,
+            "w": 630.1226993865031,
+            "h": 57.17791411042945,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Crie suas aplicações sem medo, com recursos visuais avançados e que rodam na maioria dos dispositivos",
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#bd3900",
+            "effect": "stat-glow-rainbow"
+          },
+          "animation": {
+            "enter": {
+              "type": "pulseIn",
+              "duration": 1,
+              "delay": 0.7
+            },
+            "exit": {
+              "type": "slideToRight",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770156882146",
+          "type": "text",
+          "box": {
+            "x": 282.2085889570552,
+            "y": 300.42944785276075,
+            "w": 471.1042944785276,
+            "h": 64.3558282208589,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Seus slides podem ter qualquer proporção otimizando o espaço em seus dispositivos.",
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#ffbdbd"
+          },
+          "animation": {
+            "enter": {
+              "type": "pulseIn",
+              "duration": 1,
+              "delay": 0.9
+            },
+            "exit": {
+              "type": "slideToLeft",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770157018162",
+          "type": "text",
+          "box": {
+            "x": 147.48466257668707,
+            "y": 383.8036809815951,
+            "w": 746.6257668711656,
+            "h": 71.53374233128835,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Textos, Imagens, Quadriláteros e Elipses enriquecidas com animações visuais e geométricas na entrada, saída, em loop ou hover",
+            "textAlign": "center"
+          },
+          "style": {
+            "color": "#82f2ea",
+            "effect": "stat-shadow-neon"
+          },
+          "animation": {
+            "enter": {
+              "type": "pulseIn",
+              "duration": 1,
+              "delay": 1.1
+            },
+            "exit": {
+              "type": "slideToRight",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "slide_2",
+      "width": 960,
+      "height": 540,
+      "background": {
+        "type": "color",
+        "value": "#85fffd",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-cube-right",
+        "exit": "slide-cube-left",
+        "duration": 0.8,
+        "delay": 0,
+        "easing": "ease-in-out"
+      },
+      "items": [
+        {
+          "id": "item_1770157220082",
+          "type": "text",
+          "box": {
+            "x": 74.04907975460122,
+            "y": 132.0245398773006,
+            "w": 324.23312883435585,
+            "h": 297.36196319018404,
+            "z": 3,
+            "rot": 0
+          },
+          "content": {
+            "value": "Fontes artísticas e de uso livre",
+            "fontFamily": "Quicktext",
+            "fontSize": 60,
+            "textAlign": "center"
+          },
+          "style": {
+            "effect": "stat-3d-engrave"
+          },
+          "animation": {
+            "enter": {
+              "type": "bounceIn",
+              "duration": 1,
+              "delay": 0.5
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-radar-sweep"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "geo-elastic-scale"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770157343834",
+          "type": "text",
+          "box": {
+            "x": 623.9877300613497,
+            "y": 46.44171779141105,
+            "w": 196.68711656441718,
+            "h": 31.77914110429448,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Textos com efeitos",
+            "fontFamily": "Impact"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770157370818",
+          "type": "text",
+          "box": {
+            "x": 536.7484662576687,
+            "y": 100,
+            "w": 120.49079754601229,
+            "h": 32.331288343558285,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Estáticos e ",
+            "fontFamily": "Impact",
+            "textAlign": "center"
+          },
+          "style": {
+            "effect": "stat-glow-rainbow"
+          },
+          "animation": {
+            "enter": {
+              "type": "slideFromTop",
+              "duration": 1,
+              "delay": 0.3
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770157414930",
+          "type": "text",
+          "box": {
+            "x": 717.8527607361962,
+            "y": 97.79141104294479,
+            "w": 115.52147239263803,
+            "h": 37.30061349693251,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Dinâmicos",
+            "fontFamily": "Impact",
+            "fontSize": 30,
+            "textAlign": "center"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "slideFromTop",
+              "duration": 1,
+              "delay": 0.3
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-neon-outline"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770157508346",
+          "type": "text",
+          "box": {
+            "x": 529.5705521472393,
+            "y": 147.48466257668713,
+            "w": 134.29447852760737,
+            "h": 45.030674846625764,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Estáticos",
+            "fontFamily": "Blue Winter",
+            "textAlign": "center"
+          },
+          "style": {
+            "effect": "stat-shadow-neon"
+          },
+          "animation": {
+            "enter": {
+              "type": "slideFromTop",
+              "duration": 1,
+              "delay": 0.6
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770157548354",
+          "type": "text",
+          "box": {
+            "x": 695.766871165644,
+            "y": 145.2760736196319,
+            "w": 174.60122699386503,
+            "h": 50,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Dinámicos",
+            "fontFamily": "Floozy",
+            "fontSize": 40,
+            "textAlign": "center"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "slideFromTop",
+              "duration": 1,
+              "delay": 0.6
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-neon-flicker"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770157746610",
+          "type": "shape",
+          "box": {
+            "x": 55.828220858895705,
+            "y": 131.47239263803684,
+            "w": 365.64417177914106,
+            "h": 298.282208588957,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#66a8ff"
+          },
+          "animation": {
+            "enter": {
+              "type": "bounceIn",
+              "duration": 1,
+              "delay": 0.3
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770158272506",
+          "type": "text",
+          "box": {
+            "x": 521.840490797546,
+            "y": 190.55214723926377,
+            "w": 142.0245398773006,
+            "h": 48.34355828220859,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Estáticos",
+            "textAlign": "center",
+            "fontFamily": "Pacifico"
+          },
+          "style": {
+            "effect": "stat-shadow-hard"
+          },
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0.9
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770158283026",
+          "type": "text",
+          "box": {
+            "x": 711.7791411042945,
+            "y": 190.00000000000003,
+            "w": 123.8036809815951,
+            "h": 40.61349693251534,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "dinâmicos",
+            "textAlign": "center",
+            "fontFamily": "Pacifico"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0.9
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-smoke-rise",
+                "duration": 1,
+                "timing": "cubic-bezier(0.6, -0.28, 0.735, 0.045)"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770158409001",
+          "type": "text",
+          "box": {
+            "x": 540.6134969325154,
+            "y": 264.53987730061345,
+            "w": 326.99386503067484,
+            "h": 38.95705521472392,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Configure o visual e animações em apenas duas barras de ferramentas flutuantes.",
+            "fontSize": 16,
+            "textAlign": "center"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "slideFromRight",
+              "duration": 1,
+              "delay": 0.4
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770158553522",
+          "type": "text",
+          "box": {
+            "x": 537.8527607361963,
+            "y": 323.0674846625767,
+            "w": 331.4110429447852,
+            "h": 86.44171779141104,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "A <b>barra de apresentação</b> com a lista dos slides da apresentação e os botões para Criar novo slide, salvar a apresentação, carregar uma apresentação do disco, carregar um modelo e exportar a apresentação em uma HTML autocontido.",
+            "fontSize": 14,
+            "textAlign": "center"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "slideFromRight",
+              "duration": 1,
+              "delay": 0.7
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770158708833",
+          "type": "text",
+          "box": {
+            "x": 532.8834355828221,
+            "y": 424.66257668711654,
+            "w": 338.03680981595096,
+            "h": 49.4478527607362,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "A barra do <b>editor de slides</b> na qual você configura as propriedades visuais e as animações do elementos dos seus slides.",
+            "fontSize": 14,
+            "textAlign": "center"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "slideFromRight",
+              "duration": 1,
+              "delay": 1
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "slide_3",
+      "width": 960,
+      "height": 540,
+      "background": {
+        "type": "color",
+        "value": "#ff6b6b",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-cube-right",
+        "exit": "slide-flip-vertical",
+        "duration": 0.8,
+        "delay": 1.2,
+        "easing": "ease-in-out"
+      },
+      "items": [
+        {
+          "id": "item_1770158950393",
+          "type": "text",
+          "box": {
+            "x": 40.92024539877298,
+            "y": 46.44171779141105,
+            "w": 240.3067484662577,
+            "h": 418.83435582822085,
+            "z": 2,
+            "rot": 0
+          },
+          "content": {
+            "value": "Animações<br/>Entrada<br/>Saída<br/>Loop<br/>Hover",
+            "fontFamily": "VerveShadow",
+            "fontSize": 60,
+            "textAlign": "right"
+          },
+          "style": {
+            "color": "#f1ff2e"
+          },
+          "animation": {
+            "enter": {
+              "type": "rotateIn",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-aurora"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "geo-shake-v"
+              },
+              "vis": {
+                "type": "vis-neon-outline"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159047337",
+          "type": "text",
+          "box": {
+            "x": 321.4110429447852,
+            "y": 63.00613496932515,
+            "w": 317.0552147239264,
+            "h": 53.86503067484662,
+            "z": 2,
+            "rot": 0
+          },
+          "content": {
+            "value": "As animações podem ser configuradas com delay e duração, basta selecionar o elemento, ir na guia de animação do editor de slides e fazer suas escolhas",
+            "fontFamily": "Garamond",
+            "fontSize": 15
+          },
+          "style": {
+            "color": "#8c00ff"
+          },
+          "animation": {
+            "enter": {
+              "type": "rollIn",
+              "duration": 1,
+              "delay": 0.4
+            },
+            "exit": {
+              "type": "lightSpeedOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159164201",
+          "type": "text",
+          "box": {
+            "x": 325.8282208588957,
+            "y": 142.51533742331287,
+            "w": 316.50306748466255,
+            "h": 56.07361963190184,
+            "z": 2,
+            "rot": 0
+          },
+          "content": {
+            "value": "Animações de entrada são executadas juntamente com a entrada do slide, ajustando o delay de entrada pode-se criar efeito cascata dos elementos",
+            "fontFamily": "Garamond",
+            "fontSize": 15
+          },
+          "style": {
+            "color": "#00174d"
+          },
+          "animation": {
+            "enter": {
+              "type": "rollIn",
+              "duration": 1,
+              "delay": 0.6
+            },
+            "exit": {
+              "type": "lightSpeedOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159261996",
+          "type": "shape",
+          "box": {
+            "x": 697.4233128834355,
+            "y": 339.07975460122697,
+            "w": 55.33742331288343,
+            "h": 55.33742331288343,
+            "z": 8,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#70cd7a"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 1.3
+            },
+            "exit": {
+              "type": "swingOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-elastic-scale"
+              },
+              "vis": {
+                "type": "vis-color-cycle",
+                "duration": 2.1
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159296209",
+          "type": "shape",
+          "box": {
+            "x": 714.5398773006135,
+            "y": 297.1165644171779,
+            "w": 80.1840490797546,
+            "h": 77.97546012269939,
+            "z": 7,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#962727"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 1.1
+            },
+            "exit": {
+              "type": "swingOut",
+              "duration": 1,
+              "delay": 0.3
+            },
+            "loop": {
+              "geo": {
+                "type": "none",
+                "timing": "cubic-bezier(0.6, -0.28, 0.735, 0.045)"
+              },
+              "vis": {
+                "type": "vis-neon-outline",
+                "duration": 2.2
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159356025",
+          "type": "shape",
+          "box": {
+            "x": 725.0306748466259,
+            "y": 244.6625766871166,
+            "w": 104.47852760736197,
+            "h": 106.68711656441718,
+            "z": 6,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#1207ab"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 0.9
+            },
+            "exit": {
+              "type": "swingOut",
+              "duration": 1,
+              "delay": 0.6
+            },
+            "loop": {
+              "geo": {
+                "type": "none",
+                "timing": "cubic-bezier(0.68, -0.55, 0.265, 1.55)"
+              },
+              "vis": {
+                "type": "vis-neon-flicker",
+                "duration": 2.3
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159395641",
+          "type": "shape",
+          "box": {
+            "x": 718.4049079754602,
+            "y": 193.86503067484665,
+            "w": 134.84662576687117,
+            "h": 130.42944785276075,
+            "z": 5,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#e9e0ff"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 0.7
+            },
+            "exit": {
+              "type": "swingOut",
+              "duration": 1,
+              "delay": 0.9
+            },
+            "loop": {
+              "geo": {
+                "type": "none",
+                "timing": "ease-in-out"
+              },
+              "vis": {
+                "type": "vis-neon-dbl",
+                "duration": 2.4
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159443817",
+          "type": "shape",
+          "box": {
+            "x": 712.8834355828221,
+            "y": 133.12883435582822,
+            "w": 157.4846625766871,
+            "h": 160.79754601226995,
+            "z": 4,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "circle"
+          },
+          "style": {
+            "color": "#7d8000"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 0.5
+            },
+            "exit": {
+              "type": "swingOut",
+              "duration": 1,
+              "delay": 1.2
+            },
+            "loop": {
+              "geo": {
+                "type": "none",
+                "timing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)"
+              },
+              "vis": {
+                "type": "vis-aurora",
+                "duration": 2.5,
+                "timing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770159579857",
+          "type": "shape",
+          "box": {
+            "x": 39.815950920245385,
+            "y": 30.42944785276078,
+            "w": 254.1104294478527,
+            "h": 458.34355828220856,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#a363e3",
+            "effect": "stat-shadow-neon"
+          },
+          "animation": {
+            "enter": {
+              "type": "jackInTheBox",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "pulseOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-tilt-shift"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770160186888",
+          "type": "text",
+          "box": {
+            "x": 320.85889570552143,
+            "y": 223.68098159509202,
+            "w": 299.3865030674847,
+            "h": 67.11656441717791,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Animações de saída são executadas juntamente com a saída do slide, nesse caso usa-se colocar um delay de saída no slide para dar tempo das animações de saída serem executadas",
+            "fontSize": 15,
+            "fontFamily": "Garamond"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "rollIn",
+              "duration": 1,
+              "delay": 0.8
+            },
+            "exit": {
+              "type": "lightSpeedOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770160368241",
+          "type": "text",
+          "box": {
+            "x": 330.2453987730062,
+            "y": 325.2760736196319,
+            "w": 277.85276073619633,
+            "h": 53.86503067484662,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "As animações em loop podem ser efeitos visuais ou geométricos e ficam em loop enquanto o slide estiver visível",
+            "fontSize": 15,
+            "fontFamily": "Garamond"
+          },
+          "style": {
+            "color": "#ffffff"
+          },
+          "animation": {
+            "enter": {
+              "type": "rollIn",
+              "duration": 1,
+              "delay": 1
+            },
+            "exit": {
+              "type": "lightSpeedOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "geo-pulse-3d"
+              },
+              "vis": {
+                "type": "vis-neon-outline"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770160470801",
+          "type": "text",
+          "box": {
+            "x": 322.5153374233129,
+            "y": 403.12883435582825,
+            "w": 273.4355828220859,
+            "h": 71.53374233128835,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "As animações hover são ativadas quando o mouse passa sobre o elemento associado à animação. Enquanto o mouse estiver sobre o elemento a animação hover ficará em loop",
+            "fontFamily": "Garamond",
+            "fontSize": 15
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "rollIn",
+              "duration": 1,
+              "delay": 1.2
+            },
+            "exit": {
+              "type": "jackOutTheBox",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "geo-pulse-3d"
+              },
+              "vis": {
+                "type": "vis-aurora"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "slide_4",
+      "width": 960,
+      "height": 540,
+      "background": {
+        "type": "color",
+        "value": "#00b4e0",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-cube-right",
+        "exit": "slide-flip-horizontal",
+        "duration": 0.8,
+        "delay": 0,
+        "easing": "ease-in-out"
+      },
+      "items": [
+        {
+          "id": "item_1770203672388",
+          "type": "text",
+          "box": {
+            "x": 215.95092024539878,
+            "y": 26.56441717791411,
+            "w": 574.3558282208589,
+            "h": 67.66871165644172,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Ferramentas Apresentação",
+            "fontSize": 40,
+            "fontFamily": "Telegraphem"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-energy-aura"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770206544747",
+          "type": "image",
+          "box": {
+            "x": 136.44171779141104,
+            "y": 109.38650306748467,
+            "w": 720.1226993865031,
+            "h": 380.55214723926383,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "./img/juriti_slides.png"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "zoomInRotate",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "zoomOutRotate",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-neon-outline"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "slide_5",
+      "width": 960,
+      "height": 540,
+      "background": {
+        "type": "color",
+        "value": "#5cffc9",
+        "opacity": 1
+      },
+      "transition": {
+        "enter": "slide-scale-up",
+        "exit": "slide-cube-right",
+        "duration": 0.8,
+        "delay": 0,
+        "easing": "ease-in-out"
+      },
+      "items": [
+        {
+          "id": "item_1770206653867",
+          "type": "text",
+          "box": {
+            "x": 164.04907975460122,
+            "y": 15.521472392638035,
+            "w": 663.8036809815951,
+            "h": 91.96319018404908,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "Ferramentas Edição",
+            "fontSize": 80,
+            "fontFamily": "Super Mellow"
+          },
+          "style": {
+            "color": "#3d0099"
+          },
+          "animation": {
+            "enter": {
+              "type": "fadeInDown",
+              "duration": 1,
+              "delay": 0.4
+            },
+            "exit": {
+              "type": "fadeOutDown",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "vis-energy-aura"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770206864026",
+          "type": "image",
+          "box": {
+            "x": 111.59509202453988,
+            "y": 119.32515337423314,
+            "w": 765.9509202453987,
+            "h": 394.90797546012266,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "./img/juriti_editor.png"
+          },
+          "style": {},
+          "animation": {
+            "enter": {
+              "type": "bounceIn",
+              "duration": 1,
+              "delay": 0.7
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "slide_6",
+      "width": 960,
+      "height": 540,
+      "background": {
+        "type": "image",
+        "value": "./img/neon.jpg"
+      },
+      "transition": {
+        "enter": "slide-fade",
+        "exit": "slide-fade",
+        "duration": 0.8,
+        "delay": 0,
+        "easing": "ease-in-out"
+      },
+      "items": [
+        {
+          "id": "item_1770207191738",
+          "type": "shape",
+          "box": {
+            "x": 34.29447852760734,
+            "y": 11.104294478527606,
+            "w": 901.7791411042945,
+            "h": 492.63803680981596,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "rect"
+          },
+          "style": {
+            "color": "#330000",
+            "opacity": 0.7,
+            "borderWidth": 1,
+            "borderColor": "#ab00fa"
+          },
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770207228138",
+          "type": "text",
+          "box": {
+            "x": 91.71779141104292,
+            "y": 122.08588957055215,
+            "w": 798.5276073619632,
+            "h": 211.2269938650307,
+            "z": 2,
+            "rot": 0
+          },
+          "content": {
+            "value": "O <b>Juriti Presentation</b> foi criado para dar autonomia, liberdade e principalmente segurança no desenvolvimento de suas apresentações. Enquanto outros aplicativos te obrigam a manter seus dados online, fazer upload de suas imagens com dados sensíveis ou estar sempre conectado quando for apresentar o seu trabalho, o Juriti permite que você mantenha seu trabalho totalmente local, suas imagens dentro do seu próprio computador e quando sua apresentação estiver pronta, basta EXPORTAR empacotando todas as imagens dentro de um arquivo compactado .ZIP que você descompacta em uma pasta ou em um pendrive podendo visualizar sua apresentação totalmente offline.",
+            "fontFamily": "Garamond",
+            "fontSize": 22
+          },
+          "style": {
+            "color": "#eeff00",
+            "borderColor": "#ffdb57"
+          },
+          "animation": {
+            "enter": {
+              "type": "elasticIn",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "elasticOut",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770207537826",
+          "type": "text",
+          "box": {
+            "x": 204.35582822085894,
+            "y": 33.742331288343564,
+            "w": 584.8466257668712,
+            "h": 67.11656441717791,
+            "z": 2,
+            "rot": 0
+          },
+          "content": {
+            "value": "SEGURANÇA e AUTONOMIA",
+            "fontSize": 50,
+            "fontFamily": "Super Popstar"
+          },
+          "style": {
+            "color": "#fff700",
+            "effect": "stat-shadow-neon"
+          },
+          "animation": {
+            "enter": {
+              "type": "swingIn",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "fadeOutUp",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        },
+        {
+          "id": "item_1770207616722",
+          "type": "shape",
+          "box": {
+            "x": 95.0306748466258,
+            "y": 381.59509202453984,
+            "w": 186.19631901840492,
+            "h": 67.48466257668713,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "",
+            "shapeType": "rect"
+          },
+          "style": {
+            "borderColor": "#ffffff",
+            "color": "#ff0000",
+            "borderWidth": 1
+          },
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "geo-compress-stretch"
+              },
+              "vis": {
+                "type": "vis-neon-flicker"
+              }
+            }
+          },
+          "link": {
+            "url": "#slide_1"
+          }
+        },
+        {
+          "id": "item_1770207714474",
+          "type": "text",
+          "box": {
+            "x": 297.66871165644176,
+            "y": 404.23312883435574,
+            "w": 333.6196319018405,
+            "h": 47.239263803680984,
+            "z": 1,
+            "rot": 0
+          },
+          "content": {
+            "value": "<= Click para ir para #slide_1"
+          },
+          "style": {
+            "color": "#66ff00"
+          },
+          "animation": {
+            "enter": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "exit": {
+              "type": "none",
+              "duration": 1,
+              "delay": 0
+            },
+            "loop": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            },
+            "hover": {
+              "geo": {
+                "type": "none"
+              },
+              "vis": {
+                "type": "none"
+              }
+            }
+          },
+          "link": {
+            "url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

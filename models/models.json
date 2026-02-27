@@ -1,0 +1,20 @@
+{
+    "title": "Juritis Models", 
+    "models": [ 
+        {
+            "name": "Apresentação - readme", 
+            "description": "Uma apresentação com alguns recursos e instrução de uso do Juriti Presentation.", 
+            "modelname": "juriti_01.json"
+        },
+        {
+            "name": "Demonstração Landscape", 
+            "description": "Uma apresentação demonstrando vários recursos do editor.", 
+            "modelname": "juriti_landscape.json"
+        },
+        {
+            "name": "Demonstração Portrait", 
+            "description": "Uma apresentação demonstrando vários recursos do editor.", 
+            "modelname": "juriti_portrait.json"
+        }
+    ]
+}
